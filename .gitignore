@@ -1,0 +1,24 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+.venv/
+env/
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+*.log
+*.tmp
+
+.env
+.env.*
+!.env.example
+
